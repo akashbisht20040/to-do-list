@@ -52,9 +52,7 @@ To run this application, you need Python 3.x and the `Tkinter` library (usually 
 - Tkinter (comes pre-installed with Python)
 
 ## Screenshots
-
-*(Optional: You can add screenshots here)*
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Screenshot 2024-11-25 210257](https://github.com/user-attachments/assets/14c66684-69e5-4de3-beb3-c4d87544e331)
+![Screenshot 2024-11-25 210439](https://github.com/user-attachments/assets/0d401c17-11c3-40dd-b48d-2d16547ad0c5)
+![Screenshot 2024-11-25 210453](https://github.com/user-attachments/assets/7bf8a63e-b84b-48f1-9ab6-4487490c17d0)
+![Screenshot 2024-11-25 210512](https://github.com/user-attachments/assets/55c14763-9c0e-4c05-b900-8875f0c5e31a)
